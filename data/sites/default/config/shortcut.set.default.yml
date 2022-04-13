@@ -1,0 +1,8 @@
+uuid: ecbca214-d325-4373-8472-7383a9700719
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: U5VlGjd_SfV0Qm_EfnaynOfc549cNscFAx48JfYoMRI
+id: default
+label: Default
